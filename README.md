@@ -1,6 +1,6 @@
 # Visual Bird Sound Denoising Using Advanced Image Segmentation Techniques
 
-Best Weights for this model are available at: [Link Text][https://drive.google.com/drive/folders/1W7r4Cqk9K9ZEHP4nzqvCFVg3YbOhFZYV?usp=drive_link]
+Best Weights for this model are available at: [Link Text]https://drive.google.com/drive/folders/1eNSk_IL2OLP9qR6dPIy77UfxlptgO8PX?usp=sharing
 
 
 ### Research Paper Link
